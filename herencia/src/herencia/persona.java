@@ -11,7 +11,7 @@ public class persona {
       this.edad = edad();  
       
       public String getNombre () { 
-    	  return nombre;  
+    	  return ñsdlkjfañlskdjfñasd;
     	  }
       public String getDni() { 
     	  return Dni;  
